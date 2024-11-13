@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/8JHz9AZzE4tLQ2kSAu/giphy.gif" width="30"> I'm Viviana, a Frontend Developer.
   </br>
-  I’m a fast learner who loves diving into challenges.
+  I love diving into challenges.
 </div>
 <br>
 <div id="technologies" align="center">
